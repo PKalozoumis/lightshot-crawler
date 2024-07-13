@@ -1,0 +1,34 @@
+{
+	"type": "imgur",
+	"image": 2,
+	"status": 403,
+	"lightshot_url": "https://prnt.sc/caaaaa",
+	"imgur_url": "https://image.prntscr.com/image/1fe2b2ce4eff4c1f96889fa9e8cd91cd.png",
+	"lightshot_headers": {
+		"Date": "Fri, 12 Jul 2024 16:56:06 GMT",
+		"Content-Type": "text/html; charset=UTF-8",
+		"Transfer-Encoding": "chunked",
+		"Connection": "keep-alive",
+		"X-Frame-Options": "SAMEORIGIN",
+		"Content-Encoding": "gzip",
+		"CF-Cache-Status": "DYNAMIC",
+		"Report-To": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v4?s=hKY9knNNkwrQctg902p3rFXlu1ujpA8S5fng79Uzyk4XZ8muFoWyrar4%2FZ3VQvBdcJbmnjOvbbHfkYRt0DdBQyC49mO59rj69M8Y4dXsS9FH2QDQ6F78hXw%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+		"NEL": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+		"Server": "cloudflare",
+		"CF-RAY": "8a2290911f5aeee8-ATH",
+		"alt-svc": "h3=\":443\"; ma=86400"
+	},
+	"imgur_headers": {
+		"Date": "Fri, 12 Jul 2024 16:56:06 GMT",
+		"Content-Type": "text/html",
+		"Transfer-Encoding": "chunked",
+		"Connection": "keep-alive",
+		"CF-Cache-Status": "BYPASS",
+		"Vary": "Accept-Encoding",
+		"Server": "cloudflare",
+		"CF-RAY": "8a229092de02ee6f-ATH",
+		"Content-Encoding": "gzip",
+		"alt-svc": "h3=\":443\"; ma=86400",
+		"server-timing": "cfL4;desc=\"?proto=TCP&rtt=30118&sent=6&recv=6&lost=0&retrans=0&sent_bytes=4716&recv_bytes=926&delivery_rate=191676&cwnd=253&unsent_bytes=0&cid=aa73b34089b2f62e&ts=114&x=0\""
+	}
+}
